@@ -9,7 +9,9 @@
 	</head>
 	
 	<body>
-		<h1>This is my first MVC App</h1>
+		<h2>Spring MVC Demo</h2>
+		<hr>
+		<!-- <a href="student/showForm">Student Form</a> -->
 	</body>
 </html>
 
